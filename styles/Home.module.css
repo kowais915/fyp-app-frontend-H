@@ -227,3 +227,14 @@
     transform: rotate(0deg);
   }
 }
+
+
+.container{
+  padding: 50px;
+  max-width: 800px;
+  margin: 0 auto;
+  justify-content: center;
+  margin-bottom: 500px;
+  margin-top: 50px;
+}
+
