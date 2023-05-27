@@ -14,10 +14,18 @@ const NotFound = () => {
 
     return (  
 
-        <>
+        <div className='pic404'>
         
-            <h1>Oopssssssss......</h1>
-        </>
+            
+            <Image
+                src="/404.jpeg"
+                width={500}
+                height={500}
+                alt="Picture of the author"
+            />
+
+            
+        </div>
     );
 }
  
