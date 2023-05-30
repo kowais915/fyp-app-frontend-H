@@ -4,9 +4,10 @@ const Login = () => {
     return ( 
 
         <>
-            <h1>This is the login page</h1>
+            
 
             <form className={styles.container}>
+                <h1 style={{"max-width":"600px", "display":"flex", "justifyContent":"center", "margin": "60px"}}>Welcome Back!</h1>
 
                 <div class="mb-3 row">
                         <label for="inputPassword" class="col-sm-2 col-form-label">Email</label>
