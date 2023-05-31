@@ -19,3 +19,10 @@
   display: flex;
   justify-content: center;
 }
+
+/* styling the about page */
+.about{
+  margin: 60px;
+  padding: 20px;
+  margin-bottom: 300px;
+}
